@@ -1,4 +1,4 @@
-# Spotify Data Analysis Project
+# Spotify Data Analysis With AWS
 
 ## Overview
 This project aims to analyze Spotify datasets using AWS cloud services to derive actionable insights and enhance user experiences on the Spotify platform. The project involves data collection, cleaning, exploratory data analysis, machine learning model development using logistic regression, model evaluation, and interpretation of results.
@@ -15,9 +15,9 @@ This project aims to analyze Spotify datasets using AWS cloud services to derive
 - **Business Understanding:** Translate the findings into strategic decisions to enhance user experiences.
 
 ## Technologies Used
-- AWS Services: S3, Glue, Athena, SageMaker
+- AWS Services: S3, Glue, Athena
 - Python Libraries: Pandas, NumPy, Scikit-learn
-- Other Tools: Jupyter Notebook, AWS SageMaker Studio, Power BI
+- Other Tools: Jupyter Notebook, Power BI
 
 ## Installation
 1. Clone the repository
