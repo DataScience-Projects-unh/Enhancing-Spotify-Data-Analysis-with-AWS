@@ -30,7 +30,8 @@ This project aims to analyze Spotify datasets using AWS cloud services to derive
 
 ## Contributors
 - [Monica Dasari](https://github.com/MonicaDasari)
-- [DataScience-Projects-unh](https://github.com/DataScience-Projects-unh)
+- [Swetha Namana](https://github.com/Swetha-Namana)
+
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for details.
