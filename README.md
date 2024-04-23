@@ -29,8 +29,8 @@ This project aims to analyze Spotify datasets using AWS cloud services to derive
 3. Interpret the results and derive actionable insights for business stakeholders.
 
 ## Contributors
-- [Your Name](https://github.com/your_username)
-- [Collaborator Name](https://github.com/collaborator_username)
+- [Monica Dasari](https://github.com/MonicaDasari)
+- [DataScience-Projects-unh](https://github.com/DataScience-Projects-unh)
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for details.
