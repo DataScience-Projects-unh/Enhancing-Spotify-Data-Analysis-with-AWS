@@ -14,10 +14,17 @@ This project aims to analyze Spotify datasets using AWS cloud services to derive
 - **Evaluating Results:** Interpret the results to derive actionable insights for stakeholders.
 - **Business Understanding:** Translate the findings into strategic decisions to enhance user experiences.
 
-## Technologies Used
-- AWS Services: S3, Glue, Athena
-- Python Libraries: Pandas, NumPy, Scikit-learn
+
+## Services Used
+The project utilizes the following AWS services:
+- Spotify data sets
+- AWS S3 (Simple Storage Service)
+- AWS Glue
+- Amazon Athena
 - Other Tools: Jupyter Notebook, Power BI
+
+![Architecture]("C:\Users\dell\Downloads\Screenshot 2023-06-27 at 8.49.19 AM.png")
+
 
 ## Installation
 1. Clone the repository
@@ -27,6 +34,8 @@ This project aims to analyze Spotify datasets using AWS cloud services to derive
 1. Run the Jupyter Notebooks in the `notebooks` directory sequentially to execute each step of the project.
 2. Follow the instructions provided in each notebook to perform data analysis, model development, and evaluation.
 3. Interpret the results and derive actionable insights for business stakeholders.
+
+
 
 ## Contributors
 - [Monica Dasari](https://github.com/MonicaDasari)
