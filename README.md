@@ -8,9 +8,7 @@ This project aims to analyze Spotify datasets using AWS cloud services to derive
 - **Data Gathering:** Utilize AWS S3 for storing datasets and implement data ingestion processes.
 - **Data Cleaning and Processing:** Cleanse and transform the data to prepare it for analysis.
 - **Exploratory Data Analysis:** Conduct exploratory analysis to uncover patterns and trends.
-- **ML Model (Logistic Regression):** Develop a logistic regression model to predict user preferences.
 - **Model Development:** Train and fine-tune the logistic regression model within the AWS environment.
-- **Model Evaluation:** Evaluate the model's performance using appropriate metrics.
 - **Evaluating Results:** Interpret the results to derive actionable insights for stakeholders.
 - **Business Understanding:** Translate the findings into strategic decisions to enhance user experiences.
 
@@ -23,17 +21,23 @@ The project utilizes the following AWS services:
 - Amazon Athena
 - Other Tools: Jupyter Notebook, Power BI
 
-![Architecture]("C:\Users\dell\Downloads\Screenshot 2023-06-27 at 8.49.19 AM.png")
+## Architecture
+![Architecture](https://github.com/DataScience-Projects-unh/Enhancing-Spotify-Data-Analysis-with-AWS/blob/main/WhatsApp%20Image%202024-04-23%20at%204.02.51%20AM.jpeg?raw=true)
 
 
-## Installation
-1. Clone the repository
-2. Install the required Python libraries
+## Prerequisites
+Before proceeding with the installation and setup of the project, ensure that you have the following prerequisites:
 
-## Usage
-1. Run the Jupyter Notebooks in the `notebooks` directory sequentially to execute each step of the project.
-2. Follow the instructions provided in each notebook to perform data analysis, model development, and evaluation.
-3. Interpret the results and derive actionable insights for business stakeholders.
+1. Basic Knowledge of AWS Services:
+Familiarize yourself with the basic concepts and functionalities of AWS services such as S3, Glue, Athena, etc. This will help you understand how to use these services effectively for your project.
+2. Data Source:
+Ensure you have access to the Spotify datasets or any other data source that you plan to analyze in your project. If the data is not publicly available, make sure you have obtained the necessary permissions to use it.
+3. AWS Account:
+You must have access to an AWS account with the necessary permissions to create and manage resources such as S3 buckets, Glue crawlers, Athena queries, etc.
+4. AWS Access Key and Secret Key:
+Obtain your AWS access key ID and secret access key. You can generate these credentials from the AWS Management Console under IAM (Identity and Access Management)
+5. Storage Space:
+Ensure that you have sufficient storage space on your local machine to store the project files, datasets, and any additional dependencies that you may download during the setup process.
 
 
 
